@@ -12,7 +12,7 @@ const FB_PAGE_TOKEN ="EAARZAs095ZCLMBADcKyVpSuEFwRuFpFzMVNZA15qQUVabCsUGJnrYxeC9
 
 var FB_VERIFY_TOKEN = "verify_me";
 if (!FB_VERIFY_TOKEN) {
-  FB_VERIFY_TOKEN = "just_do_it";
+  FB_VERIFY_TOKEN = "verify_me";
 }
 
 module.exports = {
